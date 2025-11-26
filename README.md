@@ -1,9 +1,12 @@
 # RESTORAN-LAKAY
 
 ## Membres du groupe
+### CARDICHON james kethler Humbrecite
+## MILlien Alain
+## JOSEPH Hollyventz Salem
 
 ## Description
-Kisa restoran lakay ap pote de nouvo pou kliye yo se fasilite achte manje yo kif h yo plezi san yo pa bezwen deplase pou sa gras ak aplikasyon restoran an fh réservation san problem permet kliyan an wai tout manje ki disponible yo epi gade favori yo epi li ap gn akse gade manje li plis komande yo
+Kisa restoran lakay ap pote de nouvo pou kliye yo se fasilite achte manje yo kife h yo plezi san yo pa bezwen deplase pou sa gras ak aplikasyon restoran an fh réservation san problem permet kliyan an wai tout manje ki disponible yo epi gade favori yo epi li ap gn akse gade manje li plis komande yo
 
 # User Story
 Must have
