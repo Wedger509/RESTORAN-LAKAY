@@ -1,7 +1,7 @@
 # RESTORAN-LAKAY
 
 ## Membres du groupe
-### CARDICHON james kethler Humbrecite
+## CARDICHON james kethler Humbrecite
 ## MILlien Alain
 ## JOSEPH Hollyventz Salem
 
@@ -23,5 +23,5 @@ Maybe
 
 Would be nice to have
 - [ ] itilizatè ap gn akse pou modifye lang aplikasyon anh
-
-- [] https://www.figma.com/design/ar7hfunShTIvZcpJbCfk5g/Sans-titre?node-id=0-1&t=BkKe7JcqfBoyDamf-1
+- [ ] itilizatè ap gn akse peye direkteman pa moncash oswa natcash
+- [ ] https://www.figma.com/design/ar7hfunShTIvZcpJbCfk5g/Sans-titre?node-id=0-1&t=BkKe7JcqfBoyDamf-1
