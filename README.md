@@ -25,3 +25,10 @@ Would be nice to have
 - [ ] itilizatè ap gn akse pou modifye lang aplikasyon anh
 - [ ] itilizatè ap gn akse peye direkteman pa moncash oswa natcash
 - [ ] https://www.figma.com/design/ar7hfunShTIvZcpJbCfk5g/Sans-titre?node-id=0-1&t=BkKe7JcqfBoyDamf-1
+
+
+
+
+https://github.com/user-attachments/assets/d026e8b2-67f3-40ef-b50a-dce4ac7d1d24
+
+
