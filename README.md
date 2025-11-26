@@ -13,12 +13,12 @@ Must have
 - [x] itilizatè ka we profil li
 
 Maybe
-- [] itilizatè ak rechaje kont li a pati de natcash, moncash oswa fh depot deirekteman nan restoran an
-- [] itilizatè ak ka gn akse ak plizye profil diferan sou aplikasyon anh
-- [] itilizatè ak gn akse kreye yon kont senpleman ak kont facebook li oswa instagram li
-- [] itilizatè ap gn akse pou modifye theme aplikasyon anh
+- [ ] itilizatè ak rechaje kont li a pati de natcash, moncash oswa fh depot deirekteman nan restoran an
+- [ ] itilizatè ak ka gn akse ak plizye profil diferan sou aplikasyon anh
+- [ ] itilizatè ak gn akse kreye yon kont senpleman ak kont facebook li oswa instagram li
+- [ ] itilizatè ap gn akse pou modifye theme aplikasyon anh
 
 Would be nice to have
-- [] itilizatè ap gn akse pou modifye lang aplikasyon anh
+- [ ] itilizatè ap gn akse pou modifye lang aplikasyon anh
 
 - [] https://www.figma.com/design/ar7hfunShTIvZcpJbCfk5g/Sans-titre?node-id=0-1&t=BkKe7JcqfBoyDamf-1
